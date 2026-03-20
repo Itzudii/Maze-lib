@@ -1,6 +1,6 @@
 # Maze Generator & Solver
 
-A Python project that generates and solves mazes with a visual interface using Pygame. The maze is created using the Hunt-and-Kill algorithm and solved using a BFS-inspired approach.
+A Python project that generates and solves mazes with a visual interface using Pygame. The maze is created using the Hunt-and-Kill algorithm and solved using a DFS-inspired approach.
 
 ### Features
 
